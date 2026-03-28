@@ -163,9 +163,9 @@ Contains three visualizations: a histogram, a correlation heatmap, and a PCA sca
 ## Repository and Docker Image
 
 ### GitHub Repository
-The full project source code is available on GitHub:
-[Add your GitHub link here]
+
+https://github.com/AdhamMekky/customer-analytics-pipeline
 
 ### Docker Hub Image
-The Docker image is published on Docker Hub:
-[Add your Docker Hub link here]
+
+(To be added after pushing to Docker Hub)
