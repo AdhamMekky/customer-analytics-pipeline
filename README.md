@@ -168,4 +168,4 @@ https://github.com/AdhamMekky/customer-analytics-pipeline
 
 ### Docker Hub Image
 
-(To be added after pushing to Docker Hub)
+https://hub.docker.com/r/adhammekky/customer-analytics
