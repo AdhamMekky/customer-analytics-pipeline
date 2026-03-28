@@ -1,0 +1,9 @@
+=== Insight 2: Top Feature Correlations ===
+
+  Spending_Score <-> Purchase_Frequency: 0.9892
+  Age <-> Membership_Years: 0.9838
+  Gender <-> PCA_3: 0.9553
+  Annual_Income <-> PCA_2: 0.9535
+  Spending_Score <-> PCA_1: 0.9487
+
+Highly correlated features may indicate redundancy or strong linear relationships that clustering algorithms can exploit.

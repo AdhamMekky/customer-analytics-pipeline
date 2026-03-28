@@ -1,0 +1,10 @@
+=== K-Means Clustering Results ===
+
+Number of clusters: 4
+Features used: ['PCA_1', 'PCA_2', 'PCA_3']
+
+Samples per cluster:
+  Cluster 0: 30 samples
+  Cluster 1: 16 samples
+  Cluster 2: 25 samples
+  Cluster 3: 29 samples

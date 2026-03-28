@@ -1,0 +1,18 @@
+=== Insight 3: Discretized Feature Distributions ===
+
+Age_Bin:
+  Bin 0: 32 samples (32.0%)
+  Bin 1: 35 samples (35.0%)
+  Bin 2: 33 samples (33.0%)
+
+Income_Bin:
+  Bin 0: 33 samples (33.0%)
+  Bin 1: 34 samples (34.0%)
+  Bin 2: 33 samples (33.0%)
+
+Spending_Bin:
+  Bin 0: 34 samples (34.0%)
+  Bin 1: 32 samples (32.0%)
+  Bin 2: 34 samples (34.0%)
+
+The bins were generated using quantile-based discretization.
